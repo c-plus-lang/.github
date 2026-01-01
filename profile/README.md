@@ -16,7 +16,7 @@ C+ places the utmost importance on _seamless integration_. The core principles:
 
  * _Every_ C code should be able to pass through the C+ build pipeline.
  * The C+ code should be able to use _everything_ from the C code without adaptation.
- * The C code should be able to use _everything_ from the translated C+ code without adaptation.
+ * The C code should be able to use _everything_ from the C+ code with translation.
 
 In addition to the principles, the translated C+ code should look as close as possible to the original C+ code (e.g., the name of the functions, the "reasonable" representation of structs, and so on) so that developers could intuitively deduce how to use the C+ code in C.
 
