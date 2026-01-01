@@ -8,7 +8,7 @@ C+ aims to _piggyback_ on the existing C infrastructure. The C+-specific build p
 
 ![Build Sequence drawio](https://github.com/user-attachments/assets/03fef56c-a3fa-465f-b82c-6eed7c4431c6)
 
-**Figure**. Evaluation of the build pipeline.
+**Figure**. Evaluation of the build pipeline. (Yellow: C+-specific)
 
 ## Interoperability
 
